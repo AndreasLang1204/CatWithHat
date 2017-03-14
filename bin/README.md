@@ -1,6 +1,5 @@
 # Credits
 
-***************************************************
 Impressum  
 
 	Studiengang: MultiMediaTechnology / FH-Salzburg  
