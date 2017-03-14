@@ -1,15 +1,19 @@
 # Credits
 
 ***************************************************
-* Impressum                                        
-* Studiengang: MultiMediaTechnology / FH-Salzburg  
-* Zweck: MultiMediaProjekt 1 (MMP1)                
-* Autor: Andreas Lang (FHS38594)                   
+Impressum  
+
+	Studiengang: MultiMediaTechnology / FH-Salzburg  
+	Zweck: MultiMediaProjekt 1 (MMP1)                
+	Autor: Andreas Lang (FHS38594)                   
+***************************************************
 
 Special Thanks to:
 
 CodeingMadeEasy for his XNA Tutorials
 https://www.youtube.com/user/CodingMadeEasy
+***************************************************
+
 
 OpenGameArt.org
 
