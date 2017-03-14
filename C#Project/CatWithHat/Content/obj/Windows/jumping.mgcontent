@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/andre/Desktop/GameDev/MonoGame/Projekte/MMP1/finished/MMP1/CatWithHat/CatWithHat/Content/jumping.wav</SourceFile>
+  <SourceTime>2016-05-09T15:02:08.9692726+02:00</SourceTime>
+  <DestFile>C:/Users/andre/Desktop/GameDev/MonoGame/Projekte/MMP1/finished/MMP1/CatWithHat/CatWithHat/Content/bin/Windows/jumping.xnb</DestFile>
+  <DestTime>2016-05-16T11:22:29.9794677+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
